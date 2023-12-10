@@ -6,3 +6,5 @@ Yes, very good.
 Added in features-a
 # New brnach intro
 introducing features-b
+# Make changes in remote directly
+making changes
