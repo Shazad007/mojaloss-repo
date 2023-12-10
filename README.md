@@ -1,2 +1,2 @@
-# Sup
+# Sup!
 Weather looks good.
